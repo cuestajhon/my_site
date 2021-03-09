@@ -1,0 +1,44 @@
+  body {
+  background-color: #eeeeee;
+  }
+
+
+
+h1 {
+  color: #222831;
+}
+
+h2 {
+  color: #393e46;
+}
+
+h3 {
+  color: #393e46;
+}
+
+h4 {
+  color: #393e46;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #393e46;
+  border-width: 2px;
+}
+
+form {
+  position : relative;
+  border-style: ridge;
+  width  : 700px;
+  margin : 0;
+  padding: 1em;
+  background : #FFF;
+  }
+
+  input {
+    color: #393e46;
+    border-style: solid;
+    border-color: #393e46;
+    margin-bottom: 10px;
+  }
