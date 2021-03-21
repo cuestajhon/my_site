@@ -97,7 +97,7 @@ table {
 
 /*top container main page styling*/
 .top-container {
-  background-image: url(".images/background-image.jpg");
+  background: url("images/background-image.jpg");
   /*Image by Garik Barseghyan from Pixabay*/
   background-size: cover;
   position: relative;
